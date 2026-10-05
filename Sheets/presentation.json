@@ -1,0 +1,42 @@
+{
+  "sheet": "presentation",
+  "columns": {
+    "id": "string",
+    "title": "string",
+    "hudWidth": "int",
+    "hudHeight": "int",
+    "scanSeconds": "float",
+    "tracerSeconds": "float",
+    "viewX": "float",
+    "viewY": "float",
+    "viewZ": "float",
+    "recoil": "float",
+    "testBridge": "string",
+    "hudX": "float",
+    "hudY": "float",
+    "fontSize": "int",
+    "referenceHeight": "float",
+    "testSlotEnv": "string"
+  },
+  "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height.",
+  "rows": [
+    {
+      "id": "hud",
+      "title": "ULTRAHAUL // DEVELOPMENT",
+      "hudWidth": 420,
+      "hudHeight": 190,
+      "scanSeconds": 2.0,
+      "tracerSeconds": 0.12,
+      "viewX": 0.22,
+      "viewY": -0.24,
+      "viewZ": 0.55,
+      "recoil": 0.08,
+      "testBridge": "{localappdata}/UltraHaul/dev",
+      "hudX": 24.0,
+      "hudY": 220.0,
+      "fontSize": 26,
+      "referenceHeight": 1080.0,
+      "testSlotEnv": "ULTRAHAUL_DEV_SLOT"
+    }
+  ]
+}
