@@ -41,7 +41,11 @@ internal sealed class Assets {
         if(textures){revolverTexture=textures.LoadAsset<Texture2D>(Assets_Revolver.TextureKey);shotgunTexture=textures.LoadAsset<Texture2D>(Assets_Shotgun.TextureKey);}
         var soundRequest=AssetBundle.LoadFromFileAsync(Path.Combine(folder,"sounds.bundle"));yield return soundRequest;sounds=soundRequest.assetBundle;
         if(sounds){revolverSound=sounds.LoadAsset<AudioClip>(Audio_Revolver.Key);shotgunSound=sounds.LoadAsset<AudioClip>(Audio_Shotgun.Key);coinSound=sounds.LoadAsset<AudioClip>(Audio_Coin.Key);}
-        Ready=V1&&Revolver&&Shotgun&&Coin&&V1Prefab&&revolverPrefab&&shotgunPrefab;
+        Ready=V1&&Revolver&&Shotgun&&Coin&&V1Prefab&&revolverPrefab&&shotgunPrefab&&revolverTexture&&shotgunTexture&&revolverSound&&shotgunSound&&coinSound
+            &&V1Clips.Any(c=>c.name==Assets_V1.IdleClip)&&V1Clips.Any(c=>c.name==Assets_V1.WalkClip)
+            &&revolverClips.Any(c=>c.name==Assets_Revolver.IdleClip)&&revolverClips.Any(c=>c.name==Assets_Revolver.FireClip)
+            &&shotgunClips.Any(c=>c.name==Assets_Shotgun.IdleClip)&&shotgunClips.Any(c=>c.name==Assets_Shotgun.FireClip);
+        plugin.Info("ASSETS textures="+(bool)revolverTexture+","+(bool)shotgunTexture+" sounds="+(bool)revolverSound+","+(bool)shotgunSound+","+(bool)coinSound);
         plugin.Status=Ready?"V1 + revolver + shotgun loaded from your ULTRAKILL copy.":"ULTRAKILL mesh mapping failed; release is not compatible with this version yet.";
         plugin.Info(plugin.Status+" V1="+(V1?V1.vertexCount:0)+" Revolver="+(Revolver?Revolver.vertexCount:0)+" Shotgun="+(Shotgun?Shotgun.vertexCount:0));
     }

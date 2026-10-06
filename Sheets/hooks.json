@@ -83,6 +83,22 @@
       "source": "EnemyParent.cs"
     },
     {
+      "id": "slam-fall",
+      "type": "PlayerCollisionController",
+      "member": "ResetFalling",
+      "phase": "call during intentional slam",
+      "system": "movement",
+      "source": "PlayerCollisionController.cs"
+    },
+    {
+      "id": "test-tumble",
+      "type": "PlayerTumble",
+      "member": "TumbleSet",
+      "phase": "development-only positioning",
+      "system": "presentation",
+      "source": "PlayerTumble.cs"
+    },
+    {
       "id": "enemy-index",
       "type": "SemiFunc",
       "member": "EnemyGetFromIndex",

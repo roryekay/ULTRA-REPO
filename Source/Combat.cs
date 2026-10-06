@@ -50,8 +50,8 @@ internal sealed class Combat {
             Vector3 origin=(Vector3)data[3],dir=(Vector3)data[4];double stamp=(double)data[5];
             if(!ValidateAim(avatar,origin,dir)||double.IsNaN(stamp)||double.IsInfinity(stamp)||Math.Abs(now-stamp)>1)return;
             float cooldown=(gun==0?Weapons_Revolver.Cooldown:Weapons_Shotgun.Cooldown)/(plugin.Style(id).Boosted(now)?Style_Momentum.CombatMultiplier:1);
-            if(fireTimes.TryGetValue(id,out var previous)&&now-previous<cooldown-Network_Coop.RateLimit)return;
-            fireTimes[id]=now;
+            if(fireTimes.TryGetValue(id,out var nextAllowed)&&now<nextAllowed-Network_Coop.RateLimit)return;
+            fireTimes[id]=now+cooldown;
             if(gun==0)Revolver(id,origin,dir.normalized);
             else Broadcast("shell",id,origin,dir.normalized,now);
             plugin.Info("HOST fire "+(gun==0?"revolver":"shotgun"));
@@ -153,6 +153,7 @@ internal sealed class Combat {
         var target=health.GetComponent<Enemy>();var point=target&&target.CenterTransform?target.CenterTransform.position:health.transform.position;
         return !TryRay(from,(point-from).normalized,Vector3.Distance(from,point),out var hit)||Health(hit.collider)==health;
     }
+    // ponytail: one traveling pellet packet; use independent projectiles if full-flight spread is required.
     void Shotgun(int id,Vector3 point,Vector3 dir,Collider first) {
         var hits=new Dictionary<EnemyHealth,int>();
         var direct=Health(first);if(direct)hits[direct]=1;else Impulse(first,dir*Loot_Fragile.BulletImpulse,point);

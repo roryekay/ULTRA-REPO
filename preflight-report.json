@@ -1,5 +1,5 @@
 {
-  "definitionChecks": 260,
+  "definitionChecks": 282,
   "errors": [],
   "cells": [
     {
@@ -325,142 +325,142 @@
     {
       "cell": "controls/dash/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/dash/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/dash/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/dash/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/slide/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/slide/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/slide/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/slide/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/fire/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/fire/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/fire/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/fire/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/coin/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/coin/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/coin/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/coin/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/parry/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/parry/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/parry/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/parry/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/equip/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/equip/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/equip/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/equip/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/switch/id",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/switch/mode",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/switch/path",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "controls/switch/action",
       "definitionVerified": true,
-      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. Q toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths."
+      "evidence": "Game keys use InputManager saved remaps (Sprint/Crouch); custom InputActions are configurable BepInEx entries. G toggles guns/grabber to preserve R.E.P.O. original mouse grabbing/rotation and inventory keys. All input disabled in menus/death/chat. G avoids native Q tumble; custom binding names displayed from saved InputAction effective paths. Native G draw/holster, R switch, F arm and LMB fire input passed with god mode off on the current build; saved C/LeftShift/Space movement also passed. RMB was sent but its InputAction result was not independently observed; the shared coin combat route was verified separately."
     },
     {
       "cell": "hooks/movement/id",
@@ -733,6 +733,66 @@
       "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
     },
     {
+      "cell": "hooks/slam-fall/id",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/slam-fall/type",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/slam-fall/member",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/slam-fall/phase",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/slam-fall/system",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/slam-fall/source",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/test-tumble/id",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/test-tumble/type",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/test-tumble/member",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/test-tumble/phase",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/test-tumble/system",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
+      "cell": "hooks/test-tumble/source",
+      "definitionVerified": true,
+      "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
+    },
+    {
       "cell": "hooks/enemy-index/id",
       "definitionVerified": true,
       "evidence": "Every named hook inspected in installed game using ILSpy 9.1; no game source is shipped. Runtime verification is recorded separately in test-results.json and never inferred from this preflight."
@@ -798,6 +858,16 @@
       "evidence": "BepInEx Chainloader inspected: HideManagerGameObject sets Unity hideFlags=61. Live test with true restores coroutine/update/HUD. Use the same supported manager flag from plugin Awake to avoid overwriting global config. Native SemiFunc exposes level/tutorial/lobby detection."
     },
     {
+      "cell": "lifecycle/bootstrap/networkStart",
+      "definitionVerified": true,
+      "evidence": "BepInEx Chainloader inspected: HideManagerGameObject sets Unity hideFlags=61. Live test with true restores coroutine/update/HUD. Use the same supported manager flag from plugin Awake to avoid overwriting global config. Native SemiFunc exposes level/tutorial/lobby detection."
+    },
+    {
+      "cell": "lifecycle/bootstrap/restoreMovement",
+      "definitionVerified": true,
+      "evidence": "BepInEx Chainloader inspected: HideManagerGameObject sets Unity hideFlags=61. Live test with true restores coroutine/update/HUD. Use the same supported manager flag from plugin Awake to avoid overwriting global config. Native SemiFunc exposes level/tutorial/lobby detection."
+    },
+    {
       "cell": "loot/fragile/id",
       "definitionVerified": true,
       "evidence": "Design: preserve fragile cargo. Never patch valuable durability, price or extraction. Bullet/blast impacts add bounded native rigidbody impulses; original impact damage remains authoritative."
@@ -830,82 +900,87 @@
     {
       "cell": "movement/v1/id",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/walk",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/sprint",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/crouch",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/jump",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/gravity",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/dashSpeed",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/dashSeconds",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/dashCapacity",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/dashRecharge",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/slideSpeed",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/slideDecay",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/slamSpeed",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/carryMultiplier",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/slideSeconds",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "movement/v1/slideEntry",
       "definitionVerified": true,
-      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts."
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
+    },
+    {
+      "cell": "movement/v1/slamFallPolicy",
+      "definitionVerified": true,
+      "evidence": "Design: approved dash/slide/slam; hooks verified in PlayerController.Start, FixedUpdate, MoveForce, CrouchOverride and CollisionController.Grounded. Tunable values are initial design choices, not runtime test results. Native slide vectors use slideSpeed minus crouch contribution, set once when native Sliding starts. Current titled build, god mode off: native C dash peak 22.46045 m/s, W+Crouch slide logged, Space jump rose 0.6123 m, real airborne Crouch slam reached -27.3962 m/s. This run did not knock the player down; native hard impacts can still do so."
     },
     {
       "cell": "network/coop/id",
@@ -1030,82 +1105,107 @@
     {
       "cell": "presentation/hud/id",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/title",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/hudWidth",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/hudHeight",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/scanSeconds",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/tracerSeconds",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/viewX",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/viewY",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/viewZ",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/recoil",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/testBridge",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/hudX",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/hudY",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/fontSize",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/referenceHeight",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "presentation/hud/testSlotEnv",
       "definitionVerified": true,
-      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height."
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
+    },
+    {
+      "cell": "presentation/hud/testHeadroom",
+      "definitionVerified": true,
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
+    },
+    {
+      "cell": "presentation/hud/testDropHeight",
+      "definitionVerified": true,
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
+    },
+    {
+      "cell": "presentation/hud/testEnemy",
+      "definitionVerified": true,
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
+    },
+    {
+      "cell": "presentation/hud/shotTrace",
+      "definitionVerified": true,
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
+    },
+    {
+      "cell": "presentation/hud/testPosition",
+      "definitionVerified": true,
+      "evidence": "Design: game-only HUD showing weapon, dash charges, style rank, controls and handshake state. Camera sourced from PlayerController.cameraGameObjectLocal, not a separate gameplay scene. Optional local file bridge only with ULTRAHAUL_DEV=1; excluded from release activation. HUD placed below native health/stamina and scales with display height. Runtime checks select only active, living native enemies; disabled/despawned enemies are excluded. Development menu transitions only end a tutorial when the native current run is a tutorial. Enemy test placement and aim retain the same living target to avoid accidentally aiming at another enemy. Slam isolation uses a real airborne controller drop with native crouch input, in a point with clear vertical headroom; this tests the slam separately from jump setup. Controlled combat checks spawn the native Hunter setup and select its Huntsman enemy, separately from other procedural enemies."
     },
     {
       "cell": "style/momentum/id",
@@ -1243,6 +1343,11 @@
       "evidence": "Design: user chose revolver/shotgun, coin ricochets/projectile boosts. EnemyHealth.Hurt requires host/singleplayer. Unlimited ammunition follows ULTRAKILL weapon behavior; reload/clip is deliberately not a touched system."
     },
     {
+      "cell": "weapons/revolver/fireTiming",
+      "definitionVerified": true,
+      "evidence": "Design: user chose revolver/shotgun, coin ricochets/projectile boosts. EnemyHealth.Hurt requires host/singleplayer. Unlimited ammunition follows ULTRAKILL weapon behavior; reload/clip is deliberately not a touched system."
+    },
+    {
       "cell": "weapons/shotgun/id",
       "definitionVerified": true,
       "evidence": "Design: user chose revolver/shotgun, coin ricochets/projectile boosts. EnemyHealth.Hurt requires host/singleplayer. Unlimited ammunition follows ULTRAKILL weapon behavior; reload/clip is deliberately not a touched system."
@@ -1299,6 +1404,11 @@
     },
     {
       "cell": "weapons/shotgun/blastRadius",
+      "definitionVerified": true,
+      "evidence": "Design: user chose revolver/shotgun, coin ricochets/projectile boosts. EnemyHealth.Hurt requires host/singleplayer. Unlimited ammunition follows ULTRAKILL weapon behavior; reload/clip is deliberately not a touched system."
+    },
+    {
+      "cell": "weapons/shotgun/fireTiming",
       "definitionVerified": true,
       "evidence": "Design: user chose revolver/shotgun, coin ricochets/projectile boosts. EnemyHealth.Hurt requires host/singleplayer. Unlimited ammunition follows ULTRAKILL weapon behavior; reload/clip is deliberately not a touched system."
     }
