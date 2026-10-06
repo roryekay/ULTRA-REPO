@@ -1,5 +1,7 @@
 # ULTRA R.E.P.O. — development prototype
 
+**Experimental build: multiplayer has not been tested with two players.** Solo movement, gun controls and staged combat have passed native-game checks. Private hosting was checked with one client; joining, combat replication and remote V1 visuals remain unverified.
+
 A real R.E.P.O. BepInEx 5 mashup, using V1, weapon models/animations, coins and sounds from the player's installed ULTRAKILL copy.
 
 Start with R.E.P.O.'s normal looting objective. Fragile valuables keep their native physics, damage, value and extraction rules. Draw a revolver or shotgun to protect the haul; holster to grab valuables again. Dash, slide and slam through rooms. Coin ricochets, shotgun projectile boosts and timed close-range parries reward style. Style refills dash energy and briefly improves damage and firing speed; it never adds money or shields loot.
@@ -8,7 +10,7 @@ Start with R.E.P.O.'s normal looting objective. Fragile valuables keep their nat
 
 Both R.E.P.O. and ULTRAKILL must be installed. R.E.P.O. is the running host game; ULTRAKILL supplies local assets and is never redistributed. Tested installations: R.E.P.O. v0.4.4.3 / Steam build 23363152, ULTRAKILL Steam build 22957324. Other versions are unverified. BepInEx 5.4.23.5 is the loader Melty can install automatically. No Python, toolkit, asset export or additional runtime is needed by players.
 
-Solo and private co-op are intended in the first release. Native Steam/Photon lobbies support up to six players; every player needs both games and the same mod. TWO-CLIENT HOST/JOIN AND COMBAT ARE STILL UNVERIFIED. This is not a finished multiplayer release and has not been submitted or published on Melty. Do not infer co-op support from successful compilation.
+Solo and experimental private co-op are implemented. Native Steam/Photon lobbies support up to six players; every player needs both games and the same mod. TWO-CLIENT HOST/JOIN AND COMBAT ARE STILL UNVERIFIED. Joining uses the game's private lobby/invite menus; automatic joining is not enabled. Do not infer working co-op from successful compilation. This development build is being shared with that limitation explicitly disclosed.
 
 ## Controls
 
@@ -30,5 +32,8 @@ R.E.P.O.: semiwork; native worlds, enemies, physics, valuables, extraction and S
 BepInEx and Harmony: their respective open-source contributors, provided by the loader.
 Development toolkit: rehan-remade/universal-modder. Built with Codex assistance. No paid asset generation used.
 
-Original mod code and documentation: MIT, copyright 2026 roryk. Melty remixes allowed. The MIT license does not cover either game's assets; those remain in each player's own installation under their respective terms. This development package is for local testing and is not an upload-ready release.
+Original mod code and documentation: MIT, copyright 2026 roryk. Melty remixes allowed. The MIT license does not cover either game's assets; those remain in each player's own installation under their respective terms. This is an experimental development release with untested multiplayer. Melty installation must be tested before the listing goes live.
 
+
+Source and experimental downloads: https://github.com/roryekay/ULTRA-REPO
+Melty listing: https://melty.gg/m/ultra-r-e-p-o (app Test required before it goes live).

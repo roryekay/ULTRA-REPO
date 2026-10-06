@@ -33,3 +33,7 @@ Failed movement runs were interrupted by Windows focus returning to Explorer; Wi
 ## Remaining before publication
 
 Two-account host/join and combat/visual replication, Melty session pickup, natural AI parry/player playtest and complete extraction, user Melty Test/install, explicit publication approval. Keep draft status and reuse the existing modId. Do not infer working multiplayer or one-click installation from static validation.
+
+## Sharing authorization update
+
+User explicitly requested GitHub upload followed by Melty upload, with multiplayer marked untested on both. This replaces the earlier requirement to withhold the development release until two-player co-op is tested. Share as experimental 0.1.0-dev; retain multiplayer metadata and omit connect. Melty app Test remains necessary before publication. Existing Melty modId is reused. Target GitHub account confirmed by authenticated gh API: roryekay; new public repository ULTRA-REPO. No secrets or game assets belong in the repository/release. Validated recipe saved as melty.json with user authorization to upload the project.
